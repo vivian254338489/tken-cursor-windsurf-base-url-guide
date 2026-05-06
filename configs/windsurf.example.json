@@ -1,0 +1,7 @@
+{
+  "provider": "openai-compatible",
+  "baseURL": "https://www.tken.shop/v1",
+  "apiKey": "your_tken_api_key",
+  "defaultModel": "free-model",
+  "codingModel": "premium-gpt"
+}
