@@ -1,17 +1,20 @@
 {
   "name": "tken-cursor-windsurf-base-url-guide",
-  "version": "0.1.0",
-  "type": "module",
+  "version": "1.0.0",
+  "description": "Version-cautious guide for Cursor and Windsurf custom OpenAI-compatible base URL setup.",
   "private": false,
+  "type": "module",
   "scripts": {
-    "check": "node check.mjs"
+    "test": "node scripts/check.js",
+    "check": "node scripts/check.js"
   },
   "keywords": [
     "cursor",
     "windsurf",
-    "api-base-url",
     "openai-compatible",
+    "base-url",
+    "custom-endpoint",
     "tken"
   ],
-  "homepage": "https://www.tken.shop/?utm_source=github&utm_medium=package_json&utm_campaign=tken_cursor_windsurf_base_url_guide"
+  "license": "MIT"
 }
